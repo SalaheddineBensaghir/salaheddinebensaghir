@@ -9,6 +9,7 @@
 
 
 ### Glad to see you here!  
+Full Stack Développer 💻 || JAVA Spring Boot || Angular || Business Intelligence (BI)📈
 I am a passionate and motivated software developer driven by the creation of high-quality software solutions.  
   
 
