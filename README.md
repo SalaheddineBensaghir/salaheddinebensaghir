@@ -17,8 +17,6 @@ I am a passionate and motivated software developer driven by the creation of hig
 
 
 
-
-
 </td><td valign="top" width="50%">
 
 
@@ -65,7 +63,7 @@ I am a passionate and motivated software developer driven by the creation of hig
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddinebnsaghir&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddinebensaghir&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -74,8 +72,6 @@ I am a passionate and motivated software developer driven by the creation of hig
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
