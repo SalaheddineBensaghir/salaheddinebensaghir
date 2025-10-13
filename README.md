@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-Full Stack Développer 💻 || JAVA Spring Boot || Angular || Business Intelligence (BI)📈
+Software Engineer  💻 || Microsoft Dynamics 365 Business Central || JAVA Spring Boot || Angular || Business Intelligence (BI)📈
 <br/>
 I am a passionate and motivated software developer driven by the creation of high-quality software solutions.  
   
